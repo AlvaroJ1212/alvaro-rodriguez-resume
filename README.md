@@ -19,15 +19,6 @@
 
 ---
 
-## 🛠️ Core Skills & Mods
-
-* **Infrastructure as Code (IaC) & Cloud:** Terraform, Google Cloud Platform (GCP)
-* **Containerization & Orchestration:** Docker, Kubernetes
-* **Programming Languages:** Python, Java, SQL
-* **Version Control & CI/CD:** Git
-
----
-
 ## 📚 Education and Training
 
 **Certificate of Higher Education in Cross-Platform Application Development** (EQF Level 6)
